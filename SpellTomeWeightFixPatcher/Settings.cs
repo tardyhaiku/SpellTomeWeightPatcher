@@ -4,10 +4,10 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace SpellTomePricePatcher
+namespace SpellTomeWeightPatcher
 {
     public class Settings
     {
-        public float ValueMultiplier { get; set; } = 1.0f;
+        public float WeightMultiplier { get; set; } = 1.0f;
     }
 }

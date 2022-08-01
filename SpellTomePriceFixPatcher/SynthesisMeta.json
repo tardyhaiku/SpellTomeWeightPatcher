@@ -1,8 +1,0 @@
-{
-  "Nickname": "SpellTomePriceFixPatcher",
-  "Visibility": "Visible",
-  "OneLineDescription": "Multiply the spell tome values in your load order by a specified amount",
-  "LongDescription": "Multiply the spell tome values in your load order by a specified amount in the settings",
-  "PreferredAutoVersioning": "Default",
-  "RequiredMods": []
-}

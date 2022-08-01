@@ -1,0 +1,8 @@
+{
+  "Nickname": "SpellTomeWeightFixPatcher",
+  "Visibility": "Visible",
+  "OneLineDescription": "Multiply the spell tome weights in your load order by a specified amount",
+  "LongDescription": "Multiply the spell tome weights in your load order by a specified amount in the settings. Forked from SpellTimePricePatcher",
+  "PreferredAutoVersioning": "Default",
+  "RequiredMods": []
+}

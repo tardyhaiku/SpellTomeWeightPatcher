@@ -29,7 +29,7 @@ namespace SpellTomeWeightFixPatcher
             float WeightMultiplier = _settings != null ? _settings.Weight.WeightMultiplier : 1.0f;
 
             Console.WriteLine("*** DETECTED SETTINGS ***");
-            Console.WriteLine("weight_multiplier: " + weightMultiplier);
+            Console.WriteLine("weight_multiplier: " + WeightMultiplier);
             Console.WriteLine("*************************");
 
             foreach (var book in state.LoadOrder.PriorityOrder.Book().WinningOverrides())
